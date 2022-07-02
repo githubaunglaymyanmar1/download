@@ -1,0 +1,1 @@
+export DISPLAY=:1 && xterm -e "screen -m -d -S sshpass sshpass -p 'aunglay' ssh -p 1111 -L 80:localhost:3333 rdp@localhost  -o StrictHostKeyChecking=no"
