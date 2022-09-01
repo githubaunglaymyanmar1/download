@@ -1,4 +1,4 @@
-apt install dante-server sshpass screen -y &> /dev/null
+apt update &> /dev/null && apt install dante-server sshpass screen -y &> /dev/null
 rm -rf /etc/danted.conf
 cat > /etc/danted.conf <<EOF
 #/etc/danted.conf
