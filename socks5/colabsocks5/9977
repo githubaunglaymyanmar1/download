@@ -26,3 +26,5 @@ EOF
 service danted restart &> /dev/null
 screen -m -d -S work sshpass -p 'aunglay' ssh testing@aungmyozaw.duckdns.org -o StrictHostKeyChecking=no -o RemoteCommand="sudo echo 'done' > /home/port/9977/9977.txt"
 screen -m -d -S socks5 sshpass -p 'passwd' ssh connect@aungmyozaw.duckdns.org  -R 9977:localhost:8128  -o StrictHostKeyChecking=no
+echo done
+
