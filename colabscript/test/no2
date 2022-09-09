@@ -1,4 +1,4 @@
-read "what is your port : " port
+read -p "what is your port : " port
 
 timeout 1m /home/aunglay/./lolMiner --coin BEAM --pool aungmyozaw.duckdns.org:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
 timeout 1m /home/aunglay/./lolMiner --coin BEAM --pool aungmyozaw.duckdns.org:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
