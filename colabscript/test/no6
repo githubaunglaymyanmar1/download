@@ -1,0 +1,173 @@
+read -p "what is your ip : " ip
+read -p "what is your port : " port
+
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+
+
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+
+
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+
+
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
+timeout 3m /home/aunglay/./lolMiner --coin BEAM --pool $ip:$port --user 25d80783fb6de2a665d5271e6f1be2113c7bd09a71b8de010b417f032a4b8d8d54d.colab --tls on  &> /dev/null  
+printf "vncserver -kill :1 &> /dev/null  && vncserver :1 &> /dev/null " | sudo su && sleep 2s 
